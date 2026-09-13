@@ -1,0 +1,3 @@
+Java IO làm việc với các luồng dữ liệu.
+BufferedReader giúp ghi văn bản hiệu quả
+UTF-8 hỗ trợ tiếng việt ổn định
